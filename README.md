@@ -1,1 +1,1 @@
-This is a repository that shows how the code should look like after doing The MongoDB and Next.js Stack for Beginners that can be found (https://ellertsmarik.medium.com/the-mongodb-and-next-js-stack-for-beginners-b4394872f5bb)[here]
+This is a repository that shows how the code should look like after doing The MongoDB and Next.js Stack for Beginners that can be found [here](https://ellertsmarik.medium.com/the-mongodb-and-next-js-stack-for-beginners-b4394872f5bb)
